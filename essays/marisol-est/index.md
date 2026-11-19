@@ -45,7 +45,8 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
   ============================================================
 {% endcomment %}
 
-This is a sample introduction. In a finished essay, this paragraph introduces readers to your family migration story:  naming who they are and their relationship to the student, why they moved, where they moved from and where they settled.It names the people and places and gives just enough background to make readers curious. A student would write about 100 to 120 words here. 
+One important aspect of my family’s migration story is the hardship my grandfather faced while trying to create a better life in the United States. During my oral history interview, Martin, my father, explained that my grandfather’s decision to cross the border was largely motivated by his family’s financial struggles. My grandpa was one of seven children, and our family had difficulty making ends meet. Because he wanted to provide for his family, he made the difficult decision to leave our family and cross the border. (draft) 
+
 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
 
