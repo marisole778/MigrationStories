@@ -45,7 +45,7 @@ lead-image-caption: "What the image shows, who is in it, and the source. Example
   ============================================================
 {% endcomment %}
 
-One important aspect of my family’s migration story is the hardship my grandfather faced while trying to create a better life in the United States. During my oral history interview, Martin, my father, explained that my grandfather’s decision to cross the border was largely motivated by his family’s financial struggles. My grandpa was one of seven children, and our family had difficulty making ends meet. Because he wanted to provide for his family, he made the difficult decision to leave our family and cross the border. (draft) 
+One important aspect of my familys migration story is the hardship my grandfather faced while trying to create a better life in the United States. During my oral history interview, Martin, my father, explained that my grandfathers decision to cross the border was largely motivated by his familys financial struggles. My grandpa was one of seven children, and our family had difficulty making ends meet. Because he wanted to provide for his family, he made the difficult decision to leave our family and cross the border.
 
 
 ## Subheader 1: The Journey Historical context and impacts (4-8 words)
