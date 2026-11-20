@@ -65,8 +65,8 @@ This section draws upon secondary sources and class materials to explain how the
   %}
 {% endcomment %}
 
-{% include essay/audio.html
-  file="audio/sample-clip.wav"
+{% include essay/audio-clip.mp3 
+  file="audio/audio-clip.mp3" 
   caption="10-25 words: who is speaking, what they describe, and a citation. Interview by Your Name, City, Month Day, Year."
 %}
 
